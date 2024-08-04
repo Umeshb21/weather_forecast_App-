@@ -6,14 +6,14 @@ City Input: Users can enter any city name.
 Weather Data: Retrieves and displays temperature, weather description, humidity, and wind speed.
 API Integration: Uses OpenWeatherMap API to fetch live weather data.
 
-Technologies Used
+Technologies Used:
 HTML: Structure of the web page.
 CSS: Basic styling for layout and design.
 JavaScript & jQuery: For handling user interactions and making AJAX requests.
 OpenWeatherMap API: Provides weather data.
 Getting Started
 
-Prerequisites
+Prerequisites:
 A web browser (e.g., Google Chrome, Firefox).
 A text editor (e.g., VSCode, Sublime Text).
 OpenWeatherMap API Key (You need to sign up and get a free API key).
